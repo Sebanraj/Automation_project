@@ -1,2 +1,2 @@
-# Automation_project
-automation script
+#tomation_project
+this is an automation script using vim command........
